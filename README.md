@@ -19,7 +19,7 @@ A focused frontend project built around a clean visual experience and responsive
 Open the main HTML file in a browser or serve the project with a static server.
 
 ## 🎯 Portfolio Focus
-Adasa demonstrates frontend fundamentals, responsive design, visual hierarchy, and polished UI composition.
+Frontend fundamentals, responsive design, visual hierarchy, and polished UI composition.
 
 ## 👤 Author
 Ahmed Khattab — Frontend Developer
