@@ -1,25 +1,34 @@
 # Adasa
 
-A focused frontend project built around a clean visual experience and responsive presentation.
+A responsive frontend project focused on clean visual composition, structured content, and a polished browsing experience.
 
-## ✨ Highlights
-- Clean landing-page composition
-- Responsive layout
-- Modern visual styling
-- Structured content sections
-- Mobile-friendly presentation
+## Overview
 
-## 🛠️ Tech Stack
+Adasa explores frontend fundamentals through a visually focused interface with clear hierarchy, responsive layouts, and reusable presentation patterns.
+
+## Highlights
+
+- Structured landing-page composition
+- Responsive desktop, tablet, and mobile layouts
+- Clear visual hierarchy
+- Modern typography and spacing
+- Mobile-friendly navigation and content presentation
+
+## Technology
+
 - HTML5
 - CSS3
 - JavaScript
 - Responsive Web Design
 
-## 🚀 Run Locally
-Open the main HTML file in a browser or serve the project with a static server.
+## Development
 
-## 🎯 Portfolio Focus
-Frontend fundamentals, responsive design, visual hierarchy, and polished UI composition.
+Open the main HTML file in a browser or serve the project through a local static server.
 
-## 👤 Author
-Ahmed Khattab — Frontend Developer
+## Portfolio Focus
+
+Responsive layout, visual hierarchy, semantic structure, CSS composition, and frontend fundamentals.
+
+## Author
+
+**Ahmed Khattab** — Front-End Web Developer
