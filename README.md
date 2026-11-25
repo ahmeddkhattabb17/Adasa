@@ -1,38 +1,21 @@
-# Adasa
+A responsive blog website built with React and Vite, with a clean layout for browsing and exploring blog content.
 
-A responsive frontend project focused on clean visual composition, structured content, and a polished browsing experience.
+*Live demo:* https://adasa-jet-five.vercel.app
 
-## Overview
+## Features
+- Responsive layout across screen sizes
+- Blog-focused layout and navigation
+- Reusable React components
 
-Adasa explores frontend fundamentals through a visually focused interface with clear hierarchy, responsive layouts, and reusable presentation patterns.
+## Tech stack
+React · Vite · HTML5 · CSS3 · JavaScript · Vercel
 
-## Highlights
+## Run locally
+bash
+npm install
+npm run dev
 
-- Structured landing-page composition
-- Responsive desktop, tablet, and mobile layouts
-- Clear visual hierarchy
-- Modern typography and spacing
-- Mobile-friendly navigation and content presentation
-
-## Technology
-
-- HTML5
-- CSS3
-- JavaScript
-- Responsive Web Design
-
-## Development
-
-Open the main HTML file in a browser or serve the project through a local static server.
-
-## Portfolio Focus
-
-Responsive layout, visual hierarchy, semantic structure, CSS composition, and frontend fundamentals.
-
-## Academic Context
-
-This project was developed as part of a front-end development assignment at Route Academy. It was created for educational purposes to practice and apply frontend development concepts in a project-based setting.
+Build for production with npm run build.
 
 ## Author
-
-**Ahmed Khattab** — Front-End Web Developer
+Ahmed Khattab, Front-End Web Developer.
